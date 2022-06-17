@@ -42,6 +42,10 @@ h1 {
   margin-top:5px;
 }
 
+.image-container img:hover {
+  cursor:pointer;
+}
+
 
 /* Media Query */
 @media  screen and (max-width:600px) {
